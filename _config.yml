@@ -1,7 +1,7 @@
 name: HelloEddie
 favicon: null
 layout_spectrum: 0.83879
-typography_spectrum: 0.47934
+typography_spectrum: 0.31792
 cta:
   domain: null
   bucket: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#79a09f'
-    - '#dddcc9'
-    - '#f2d057'
-    - '#663a1e'
-    - '#ed793e'
-  brandStrength: 0.875
+    - '#dbd6da'
+    - '#bbb4ab'
+    - '#73767d'
+    - '#919296'
+    - '#3d383e'
+  brandStrength: 0.8125
   lightness: 1
   saturation: 0.9719532588496804
   rhythmicContrast: 0.75
