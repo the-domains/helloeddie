@@ -4,8 +4,15 @@
         <description><![CDATA[HelloEddie]]></description>
         <link>https://thegrid.ai/helloeddie/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 28 Nov 2015 21:09:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Nov 2015 21:09:29 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/helloeddie/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Getting Started on The Grid]]></title>
+            <description><![CDATA[<article><h1>Getting Started on The Grid</h1><h2>Creating a Site</h2><p>Welcome to The Grid Beta, we’re excited to have you onboard! Here are a few quick tips to get you up and running. </p></article>]]></description>
+            <link>https://thegrid.ai/helloeddie/getting-started-on-the-grid/index.html</link>
+            <guid isPermaLink="false">9457111f-e299-4f02-a371-745de68b9a02</guid>
+            <pubDate>Sat, 28 Nov 2015 21:08:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Pin the Tail Title]]></title>
             <description><![CDATA[<article><h1>Pin the Tail Title</h1><p>Pin the tail on the donkey. Oil on canvas.</p><img src="http://www.helloeddie.com/wp-content/uploads/2015/08/donkey082915.1original.jpg"></article>]]></description>
