@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[HelloEddie]]></title>
         <description><![CDATA[HelloEddie]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/helloeddie/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 28 Nov 2015 21:09:01 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 28 Nov 2015 21:09:17 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/helloeddie/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Pin the Tail Title]]></title>
+            <description><![CDATA[<article><h1>Pin the Tail Title</h1><p>Pin the tail on the donkey. Oil on canvas.</p><img src="http://www.helloeddie.com/wp-content/uploads/2015/08/donkey082915.1original.jpg"></article>]]></description>
+            <link>http://www.helloeddie.com/wp-content/uploads/2015/08/donkey082915.1original.jpg</link>
+            <guid isPermaLink="false">77b94fbc-247b-427e-9012-fa561029a270</guid>
+            <pubDate>Sat, 28 Nov 2015 21:08:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[My Little Pony First Post]]></title>
             <description><![CDATA[<article><h1>My Little Pony First Post</h1><p>Hello World</p></article>]]></description>
-            <link>undefinedmy-little-pony-first-post/index.html</link>
+            <link>https://thegrid.ai/helloeddie/my-little-pony-first-post/index.html</link>
             <guid isPermaLink="false">8e52e83c-a3cc-456d-8b2f-99c3310bbb09</guid>
             <pubDate>Sat, 28 Nov 2015 21:08:58 GMT</pubDate>
         </item>
