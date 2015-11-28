@@ -1,7 +1,7 @@
 name: HelloEddie
 favicon: null
-layout_spectrum: 0.32304
-typography_spectrum: 0.30422
+layout_spectrum: 0.83879
+typography_spectrum: 0.13091
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#f2d057'
     - '#663a1e'
     - '#ed793e'
-  brandStrength: 1
+  brandStrength: 0.875
   lightness: 1
   saturation: 0.9719532588496804
-  rhythmicContrast: 1
+  rhythmicContrast: 0.75
 purpose: []
